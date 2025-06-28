@@ -4,9 +4,9 @@
 
 *NAME*: Pothina Chiranjeevi 
 
-"INTERN ID*: CT04DF2481
+*INTERN ID*: CT04DF2481
 
-"DOMAIN*: Full Stack Web Development
+*DOMAIN*: Full Stack Web Development
 
 *DURATION*: 4 WEEEKS
 
